@@ -244,27 +244,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👥 Authors
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
----
-
 ## 🙏 Acknowledgments
 
 - Dataset provided by [Source/Institution]
 - Inspired by precision agriculture research
 - Built for agricultural technology advancement
-
----
-
-## 📞 Contact
-
-For questions or collaboration opportunities:
-- Email: your.email@example.com
-- Project Link: [https://github.com/yourusername/hyperspectral-corn-analysis](https://github.com/yourusername/hyperspectral-corn-analysis)
 
 ---
 
